@@ -27,7 +27,7 @@
     "electron-packager": "^15.1.0",
     "electron-rebuild": "^2.3.2",
     "electron-renderify": "0.0.2",
-    "standard": "^14.3.4"
+    "standard": "^16.0.4"
   },
   "optionalDependencies": {
     "electron-installer-debian": "^3.1.0",
